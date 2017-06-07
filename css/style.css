@@ -1,0 +1,72 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+
+body{
+	background-image: url(../images/space-wallpaper.jpg);
+}
+
+
+
+h1{
+	text-align: center;
+	font-family:  Georgia, Helvetica, Times, serif;
+	font-size: 50px;
+	color: #ffffff;
+}
+
+
+
+
+button{
+
+	background-color: #fa8c8c;
+	color: #ffffff;
+	border-radius: 5px;
+	padding:10px;
+    font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+	border: solid #096070 2px;
+
+
+}
+
+#add-gif{
+	background-color: #fa8c8c;
+	color: #ffffff;
+	border-radius: 5px;
+	padding:10px;
+    font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+	border: solid #096070 2px;
+}
+
+label{
+	font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+}
+
+
+
+
+img{
+	height: 200px;
+	width:300px;
+	display: inline-block;
+	border-radius: 10px;
+	border:solid #fa8c8c 2px;
+	float: left;
+	/*clear: both;*/
+}
+
+p{
+	font-family: Georgia, helvetica, serif;
+	color: #ffffff;
+	margin-left:100px;
+	/*float:left;*/
+	clear: both;
+}
